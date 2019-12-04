@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import com.eveningoutpost.dexdrip.Models.UserError.Log;
 
 /**
- * Created by adrian on 30/06/15.
+ * Created by Sean Curtis on 12/4/19.
  */
 public class TrendFragment extends Fragment {
 
